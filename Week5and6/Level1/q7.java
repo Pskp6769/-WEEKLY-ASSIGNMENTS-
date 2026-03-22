@@ -12,7 +12,6 @@ public class q7{
             sum = sum + heights[i];
         }
             double meanHeight = sum/11;
-
             System.out.printf("\nthe mean height of the players is : %.2f\n ", meanHeight);
             scanner.close();
 
